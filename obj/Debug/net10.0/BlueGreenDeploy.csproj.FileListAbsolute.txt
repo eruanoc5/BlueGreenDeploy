@@ -95,3 +95,4 @@ C:\Users\edson\source\BlueGreenDeploy\obj\Debug\net10.0\BlueGreenDeploy.pdb
 C:\Users\edson\source\BlueGreenDeploy\obj\Debug\net10.0\BlueGreenDeploy.genruntimeconfig.cache
 C:\Users\edson\source\BlueGreenDeploy\obj\Debug\net10.0\ref\BlueGreenDeploy.dll
 C:\Users\edson\source\BlueGreenDeploy\obj\Debug\net10.0\compressed\uryen30k3e-{0}-r53ocs9kat-r53ocs9kat.gz
+C:\Users\edson\source\BlueGreenDeploy\obj\Debug\net10.0\BlueGreenDeploy.sourcelink.json

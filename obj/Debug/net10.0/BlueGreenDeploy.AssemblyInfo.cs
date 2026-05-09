@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlueGreenDeploy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52a47a65763085cabe37e45005215134bf8979d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b0dfeeb6fe8b044b9d2f2d65e59a3b5cfde967")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlueGreenDeploy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlueGreenDeploy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
